@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoojaNandaniya
 - 👀 I’m interested in doing business
-- 🌱 I’m currently learning new concepts of businessÂÂÂÂÂÂÂ
+- 🌱 I’m currently learning new concepts of business
 - 📫 How to reach me ...
 
 <!---
